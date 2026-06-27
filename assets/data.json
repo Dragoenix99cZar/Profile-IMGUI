@@ -1,0 +1,33 @@
+{
+  "header": {
+    "name": "Aman Karn",
+    "roles": "Game Developer | Unity | Unreal | Multimedia Developer | QA | Mentor"
+  },
+  "about_me": "I'm a passionate game developer focused on building engaging gameplay experiences with Unity, C++, and JavaScript. I love experimenting with mechanics, AI, and interactive systems. Below is a selection of my personal and academic projects.",
+  "featured_projects": [
+    { "name": "Maze Bot (Pathfinding AI)", "url": "js-experiments/project/index.html" },
+    { "name": "Stealth Game (Prototype)", "url": "stealth_game/index.html" },
+    { "name": "First-Person Shooter (Basic Mechanics)", "url": "fps/index.html" },
+    { "name": "Mini Brain Game (In Progress)", "url": "recall/index.html" },
+    { "name": "Wave Battle Game (In Progress)", "url": "Wave/index.html" },
+    { "name": "Wave Battle Game V2 (In Progress)", "url": "Wave2/index.html" }
+  ],
+  "js_experiments": [
+    { "name": "Assignment 2", "url": "js-experiments/ast2/index.html" },
+    { "name": "Assignment 3", "url": "js-experiments/ast3/index.html" },
+    { "name": "Assignment 1", "url": "js-experiments/ast1/index.html" },
+    { "name": "Assignment 4", "url": "js-experiments/ast4/index.html" },
+    { "name": "Assignment 5", "url": "js-experiments/ast5/index.html" },
+    { "name": "Assignment 6", "url": "js-experiments/ast6/index.html" },
+    { "name": "Assignment 7", "url": "js-experiments/ast7/index.html" },
+    { "name": "Assignment Pasco Page", "url": "pasco/index.html" },
+    { "name": "Simple 3D Graphics", "url": "simple_3d/index.html" }
+  ],
+  "skills": [
+    { "category": "Languages:", "items": "C, C++, C#, JavaScript, Python, Rust" },
+    { "category": "Engines:", "items": "Unity, Unreal (basic)" },
+    { "category": "Web:", "items": "HTML, CSS, JS" },
+    { "category": "Tools:", "items": "Git, VS Code, Blender (basic), Figma, FFmepeg, Wasm" },
+    { "category": "Platforms:", "items": "Web, PC, Android (Unity export)" }
+  ]
+}
